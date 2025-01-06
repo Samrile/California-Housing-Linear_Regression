@@ -22,7 +22,7 @@ This project implements a **Linear Regression Model** to predict housing prices 
 Housing price prediction is a classic problem in data science. This project uses the California Housing dataset to:
 - Explore the dataset through visualizations and statistical summaries.
 - Perform feature selection based on correlation.
-- Build a Linear Regression model to predict housing prices.
+- Build a Linear Regression model to predict housing prices as well as used Ridge and Lasso.
 - Evaluate the model's performance using metrics like R², Mean Squared Error, and Mean Absolute Error.
 
 This project serves as an introduction to **Machine Learning** concepts, focusing on regression analysis and model evaluation.
